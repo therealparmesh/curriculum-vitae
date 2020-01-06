@@ -1,0 +1,34 @@
+{
+  "name": "curriculum-vitae",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "build": "preact build",
+    "dev": "preact watch",
+    "pretty-quick": "pretty-quick",
+    "serve": "preact build && serve build --single",
+    "start": "per-env",
+    "start:development": "npm run --silent dev",
+    "start:production": "npm run --silent serve",
+    "tsc": "tsc"
+  },
+  "dependencies": {
+    "bulma": "^0.8.0",
+    "bulmaswatch": "^0.7.0",
+    "preact": "^10.1.0",
+    "preact-render-to-string": "^5.1.0",
+    "preact-router": "^3.1.0"
+  },
+  "devDependencies": {
+    "husky": "^3.1.0",
+    "node-sass": "^4.13.0",
+    "per-env": "^1.0.0",
+    "preact-cli": "^3.0.0-rc.1",
+    "prettier": "^1.19.0",
+    "pretty-quick": "^2.0.0",
+    "sass-loader": "^7.3.0",
+    "serve": "^11.1.0",
+    "typescript": "^3.7.0"
+  }
+}
