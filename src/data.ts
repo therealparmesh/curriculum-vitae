@@ -1,7 +1,7 @@
 export default {
   profile: {
     name: 'PARMESH KRISHEN',
-    title: 'Software Architect && Lead UI Engineer @ CS Disco',
+    title: 'Senior Software Architect && Lead UI Engineer @ CS Disco',
     photo: 'https://avatars1.githubusercontent.com/u/7146141?s=460&v=4',
     city: 'Austin, TX',
     phone: '281.743.7102',
@@ -26,8 +26,15 @@ export default {
     {
       company: 'CS Disco',
       location: 'Austin, TX',
+      title: 'Senior Software Architect && Lead UI Engineer',
+      period: 'JAN 2020 - present',
+      descriptions: [],
+    },
+    {
+      company: 'CS Disco',
+      location: 'Austin, TX',
       title: 'Software Architect && Lead UI Engineer',
-      period: 'FEB 2018 - present',
+      period: 'FEB 2018 - JAN 2020',
       descriptions: [
         'Worked on DISCO Review, an AI-driven ediscovery solution that gives law firms, corporations, and government agencies total control over their data, workflows, and costs',
         'Led UI development of the document viewer, a central piece of the product',
