@@ -37,11 +37,11 @@ export default {
       period: 'FEB 2018 - JAN 2020',
       descriptions: [
         'Worked on DISCO Review, an AI-driven ediscovery solution that gives law firms, corporations, and government agencies total control over their data, workflows, and costs',
-        'Led UI development of the document viewer, a central piece of the product',
-        'Improved the existing codebase to bring about industry-best document viewer performance',
+        'Led a team of UI engineers dedicated to feature development for the document viewer, a core piece of the product, while moving it from Backbone to React',
+        'Improved the existing document viewer implementation to accomplish industry-best performance backed by logging and performance testing',
         'Architected the core design system library using React, CSS-in-JS, and TypeScript',
         'Helped to form the micro frontends architecture along with a migration strategy to enable UI teams to deploy independently',
-        'Took initiative to build UI team and culture by interviewing, recruiting, onboarding, mentoring, and evangelizing',
+        'Took initiative to build up the UI team and culture by interviewing, recruiting, onboarding, mentoring, and evangelizing, as well as owning part of the professional development training strategy',
       ],
     },
     {
@@ -53,8 +53,8 @@ export default {
         'Worked on Shibumi.com, an enterprise software product that manages high impact strategy execution',
         'Refocused and rearchitected an existing React project to provide business value',
         'Led the migration from the legacy UI to a new UI based on React',
-        'Started a company-wide effort to move to Behavior-Driven Development via Cucumber',
-        'Presented the new testing strategy at a company event',
+        'Started a company-wide effort to move to Behavior-Driven Development via Cucumber and presented the new testing strategy at a company event',
+        'Developed end-to-end features around roles and permissions',
         'Helped to transition from a monolith to a microservice architecture',
       ],
     },
@@ -66,7 +66,7 @@ export default {
       descriptions: [
         'Worked on Onit App Builder, an enterprise platform for creating apps to simplify business processes',
         'Led UI development in a complete rewrite of the UI based on React',
-        'Authored a dashboard-like experience called Suites, allowing for cross-app functionality',
+        'Authored a dashboard-like feature called suites to provide valuable cross-app functionality for power users',
         'Upgraded the server-side generated legacy UI to an ExtJS single-page app',
         'Delegated project subtasks to overseas team and managed the progress',
         'Developed a web app that integrated with our in-house project management app to run standup meetings',
@@ -89,7 +89,7 @@ export default {
       period: 'AUG 2012 - MAY 2014',
       descriptions: [
         'Worked on eEMS (now Clockwise), a customizable automated time and attendance system',
-        'Helped to architect a new UI based on ExtJS to upgrade the legacy server-side generated UI',
+        'Helped build the new UI based on ExtJS to upgrade the legacy server-side generated UI',
         'Developed an end-to-end QuickBooks Online sync feature',
         'Implemented an automated build process and a CI/CD pipeline',
         'Improved performance of the legacy Java platform by optimizing SQL queries and ORM logic',
