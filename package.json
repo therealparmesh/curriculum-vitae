@@ -17,7 +17,7 @@
     "bulma": "^0.8.0",
     "bulmaswatch": "^0.7.0",
     "preact": "^10.2.1",
-    "preact-render-to-string": "^5.1.0",
+    "preact-render-to-string": "^5.1.4",
     "preact-router": "^3.1.0"
   },
   "devDependencies": {
