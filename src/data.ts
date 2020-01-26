@@ -19,8 +19,9 @@ export default {
   },
   summary: `
     I am a self-driven, business-minded software engineer with a passion for delivering great software within great teams.
-    I take pride in architecting solutions that fit the problems and not vice-versa.
+    I take pride in building solutions that fit the problems and not vice-versa.
     I strive daily to grow as a teammate, technical leader, and open source contributor.
+    These days, I am focused on all aspects of UI development.
   `,
   experiences: [
     {
