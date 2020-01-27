@@ -18,7 +18,7 @@
     "bulmaswatch": "^0.7.0",
     "preact": "^10.2.1",
     "preact-render-to-string": "^5.1.4",
-    "preact-router": "^3.2.0"
+    "preact-router": "^3.2.1"
   },
   "devDependencies": {
     "husky": "^4.2.1",
