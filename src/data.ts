@@ -2,7 +2,7 @@ export default {
   profile: {
     name: 'PARMESH KRISHEN',
     title: 'Senior Software Architect && Lead UI Engineer @ CS Disco',
-    photo: 'https://avatars1.githubusercontent.com/u/7146141?s=460&v=4',
+    photo: '/assets/profile.jpeg',
     city: 'Austin, TX',
     phone: '281.743.7102',
     email: 'parmesh.krishen@outlook.com',
