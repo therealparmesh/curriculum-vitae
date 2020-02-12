@@ -21,7 +21,7 @@
     "preact-router": "^3.2.1"
   },
   "devDependencies": {
-    "husky": "^4.2.1",
+    "husky": "^4.2.2",
     "node-sass": "^4.13.1",
     "per-env": "^1.0.0",
     "preact-cli": "^3.0.0-rc.1",
