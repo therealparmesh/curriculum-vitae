@@ -29,6 +29,6 @@
     "pretty-quick": "^2.0.0",
     "sass-loader": "^7.3.0",
     "serve": "^11.1.0",
-    "typescript": "^3.7.5"
+    "typescript": "^3.8.2"
   }
 }
