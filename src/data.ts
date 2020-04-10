@@ -1,7 +1,7 @@
 export default {
   profile: {
     name: 'PARMESH KRISHEN',
-    title: 'Senior Software Architect && Lead UI Engineer @ CS Disco',
+    title: 'Software Engineer | UI Developer | UI Architect',
     photo: '/assets/profile.jpeg',
     city: 'Austin, TX',
     phone: '281.743.7102',
