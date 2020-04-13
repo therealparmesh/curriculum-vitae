@@ -14,7 +14,7 @@
     "tsc": "tsc"
   },
   "dependencies": {
-    "bulma": "^0.8.1",
+    "bulma": "^0.8.2",
     "bulmaswatch": "^0.8.0",
     "preact": "^10.4.0",
     "preact-render-to-string": "^5.1.6",
