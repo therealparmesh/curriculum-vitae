@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "husky": "^4.2.5",
-    "node-sass": "^4.14.0",
+    "node-sass": "^4.14.1",
     "per-env": "^1.0.0",
     "preact-cli": "^3.0.0-rc.10",
     "prettier": "^2.0.5",
