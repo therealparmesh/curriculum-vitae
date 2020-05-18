@@ -16,7 +16,7 @@
   "dependencies": {
     "bulma": "^0.8.2",
     "bulmaswatch": "^0.8.1",
-    "preact": "^10.4.1",
+    "preact": "^10.4.2",
     "preact-render-to-string": "^5.1.8",
     "preact-router": "^3.2.1"
   },
