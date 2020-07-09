@@ -4,31 +4,20 @@
   "private": true,
   "license": "MIT",
   "scripts": {
-    "build": "preact build",
-    "dev": "preact watch",
-    "pretty-quick": "pretty-quick",
-    "serve": "preact build && serve build --single",
-    "start": "per-env",
-    "start:development": "npm run --silent dev",
-    "start:production": "npm run --silent serve",
-    "tsc": "tsc"
+    "build": "snowpack build && workbox generateSW",
+    "start": "snowpack dev"
   },
   "dependencies": {
-    "bulma": "^0.9.0",
     "bulmaswatch": "^0.8.1",
-    "preact": "^10.4.5",
-    "preact-render-to-string": "^5.1.9",
-    "preact-router": "^3.2.1"
+    "svelte": "^3.24.0"
   },
   "devDependencies": {
+    "@snowpack/app-scripts-svelte": "^1.2.0",
     "husky": "^4.2.5",
-    "node-sass": "^4.14.1",
-    "per-env": "^1.0.0",
-    "preact-cli": "^3.0.0-rc.16",
     "prettier": "^2.0.5",
-    "pretty-quick": "^2.0.0",
-    "sass-loader": "^9.0.2",
-    "serve": "^11.3.2",
-    "typescript": "^3.9.6"
+    "prettier-plugin-svelte": "^1.1.0",
+    "pretty-quick": "^2.0.1",
+    "snowpack": "^2.6.4",
+    "workbox-cli": "^5.1.3"
   }
 }
