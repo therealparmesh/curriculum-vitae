@@ -11,5 +11,3 @@ if (import.meta.hot) {
     app.$destroy();
   });
 }
-
-export default app;
