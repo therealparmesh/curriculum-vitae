@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "bulmaswatch": "^0.8.1",
-    "svelte": "^3.24.0"
+    "svelte": "^3.24.1"
   },
   "devDependencies": {
     "@snowpack/app-scripts-svelte": "^1.8.1",
