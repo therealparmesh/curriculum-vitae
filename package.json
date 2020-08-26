@@ -14,7 +14,7 @@
     "@snowpack/app-scripts-svelte": "^1.8.4",
     "husky": "^4.2.5",
     "prettier": "^2.1.0",
-    "prettier-plugin-svelte": "^1.1.0",
+    "prettier-plugin-svelte": "^1.1.1",
     "pretty-quick": "^3.0.0",
     "snowpack": "^2.9.0",
     "workbox-cli": "^5.1.3"
