@@ -20,12 +20,14 @@
     <link rel="apple-touch-icon" href="/icon-192x192.png" />
     <link
       rel="stylesheet"
-      href="/web_modules/bulmaswatch/lux/bulmaswatch.min.css"
+      href="https://cdnjs.cloudflare.com/ajax/libs/bulmaswatch/0.8.1/lux/bulmaswatch.min.css"
     />
     <script type="module">
-      window.addEventListener('load', () => {
-        navigator.serviceWorker.register('/sw.js');
-      });
+      if ('%MODE%' === 'production') {
+        window.addEventListener('load', () => {
+          navigator.serviceWorker.register('/sw.js');
+        });
+      }
     </script>
   </head>
   <body>
