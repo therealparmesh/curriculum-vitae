@@ -10,7 +10,7 @@
     "svelte": "^3.28.0"
   },
   "devDependencies": {
-    "@snowpack/app-scripts-svelte": "^1.8.4",
+    "@snowpack/app-scripts-svelte": "^1.8.5",
     "husky": "^4.3.0",
     "prettier": "^2.1.2",
     "prettier-plugin-svelte": "^1.3.0",
