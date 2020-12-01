@@ -16,6 +16,6 @@
     "prettier-plugin-svelte": "^1.4.1",
     "pretty-quick": "^3.1.0",
     "snowpack": "^2.17.1",
-    "workbox-cli": "^5.1.4"
+    "workbox-cli": "^6.0.0"
   }
 }
