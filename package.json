@@ -7,7 +7,7 @@
     "start": "snowpack dev"
   },
   "dependencies": {
-    "svelte": "^3.31.0"
+    "svelte": "^3.38.0"
   },
   "devDependencies": {
     "@snowpack/app-scripts-svelte": "^1.9.2",
